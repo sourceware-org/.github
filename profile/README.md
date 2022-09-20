@@ -1,1 +1,1 @@
-## Unofficial mirror of sourceware.org
+## Unofficial mirror git repositories of sourceware.org
